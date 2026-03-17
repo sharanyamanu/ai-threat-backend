@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>AI Threat Dashboard</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+<div class="container mt-4">
+
+<h1 class="text-center mb-4">🚨 AI Threat Intelligence Dashboard</h1>
+
+<div class="row text-center">
+
+<div class="col-md-4">
+<div class="card p-3">
+<h5>Total Logs</h5>
+<h2>{{ total or 0 }}</h2>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card p-3">
+<h5>Suspicious</h5>
+<h2 class="text-danger">{{ suspicious or 0 }}</h2>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card p-3">
+<h5>Normal</h5>
+<h2 class="text-success">{{ normal or 0 }}</h2>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<h4>Upload Security Logs</h4>
+
+<form action="/upload" method="post" enctype="multipart/form-data">
+<input type="file" name="file" class="form-control">
+<br>
+<button class="btn btn-danger">Analyze Logs</button>
+</form>
+
+<br>
+
+<a href="/download" class="btn btn-success">Download Report</a>
+
+<hr>
+
+<h4>Threat Analysis Table</h4>
+
+{% if table %}
+{{ table|safe }}
+{% endif %}
+
+<hr>
+
+<h4>Threat Indicators Overview</h4>
+
+<canvas id="chart"></canvas>
+
+</div>
+
+<!-- SAFE DATA PASS -->
+<div id="chart-data" data-chart='{{ chart_data | tojson }}'></div>
+
+<script>
+const chartElement = document.getElementById("chart-data");
+let chartData = [0,0,0];
+
+if (chartElement) {
+    try {
+        chartData = JSON.parse(chartElement.dataset.chart);
+    } catch (e) {
+        chartData = [0,0,0];
+    }
+}
+
+window.chartData = chartData;
+</script>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>

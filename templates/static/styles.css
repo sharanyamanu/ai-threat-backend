@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(135deg,#020617,#0f172a);
+    color:white;
+    font-family:'Segoe UI';
+    }
+    
+    .card{
+    background:#1e293b;
+    border-radius:15px;
+    box-shadow:0px 4px 25px rgba(0,0,0,0.6);
+    transition:0.3s;
+    }
+    
+    .card:hover{
+    transform:scale(1.03);
+    }
+    
+    h1{
+    font-weight:800;
+    letter-spacing:1px;
+    }
+    
+    .btn-danger{
+    background:#dc2626;
+    border:none;
+    }
+    
+    .btn-success{
+    background:#22c55e;
+    border:none;
+    }

@@ -1,0 +1,1201 @@
+user_id,login_hour,location,device,failed_attempts,files_accessed
+user_61,10,Costa Rica,Laptop,2,174
+user_2,19,Iraq,Mobile,2,115
+user_86,4,Yemen,Mobile,0,18
+user_41,3,Central African Republic,Desktop,0,153
+user_68,6,Cyprus,Mobile,3,42
+user_4,15,Bhutan,Desktop,0,75
+user_95,13,Cook Islands,Laptop,1,110
+user_46,23,Iran,Laptop,0,80
+user_88,7,Cook Islands,Desktop,1,166
+user_89,21,Mayotte,Desktop,1,71
+user_46,7,Jersey,Desktop,3,157
+user_98,23,Montenegro,Mobile,3,13
+user_83,23,Slovenia,Laptop,4,159
+user_87,7,Western Sahara,Mobile,2,79
+user_27,5,Zimbabwe,Desktop,1,21
+user_56,16,Montserrat,Desktop,0,188
+user_87,17,Trinidad and Tobago,Laptop,2,126
+user_73,22,Latvia,Mobile,0,151
+user_64,15,Malawi,Mobile,5,136
+user_98,20,French Polynesia,Desktop,5,62
+user_32,8,United States Minor Outlying Islands,Laptop,1,23
+user_29,0,French Polynesia,Mobile,1,17
+user_85,16,Grenada,Mobile,5,34
+user_47,12,Bangladesh,Desktop,4,89
+user_75,17,Congo,Laptop,0,108
+user_23,3,Saint Helena,Desktop,1,120
+user_19,8,Haiti,Mobile,2,19
+user_58,9,Sierra Leone,Mobile,4,103
+user_49,16,Macao,Laptop,4,127
+user_73,4,Guadeloupe,Laptop,0,170
+user_71,23,United States Minor Outlying Islands,Desktop,1,150
+user_45,21,Poland,Mobile,2,55
+user_85,2,Aruba,Laptop,1,176
+user_72,21,Cambodia,Desktop,4,152
+user_96,6,Estonia,Laptop,4,36
+user_66,14,Colombia,Laptop,2,87
+user_81,11,Indonesia,Laptop,1,36
+user_6,5,Congo,Mobile,4,125
+user_61,23,Ireland,Laptop,3,181
+user_7,10,Bahamas,Desktop,4,192
+user_11,18,New Caledonia,Laptop,4,102
+user_44,20,Fiji,Mobile,5,119
+user_11,15,Uganda,Mobile,5,94
+user_1,2,Guatemala,Desktop,4,17
+user_14,19,Jordan,Desktop,2,74
+user_52,1,Algeria,Desktop,4,40
+user_70,2,Northern Mariana Islands,Desktop,4,31
+user_24,15,Czech Republic,Laptop,1,76
+user_38,3,Palau,Laptop,2,16
+user_100,5,Congo,Laptop,1,194
+user_76,6,North Macedonia,Desktop,2,74
+user_37,5,Nepal,Desktop,3,94
+user_44,7,Guinea,Desktop,1,192
+user_21,4,Malawi,Desktop,5,158
+user_8,13,Uzbekistan,Mobile,4,117
+user_96,7,Mexico,Laptop,2,108
+user_80,10,Moldova,Laptop,3,8
+user_60,15,Ecuador,Laptop,1,163
+user_84,10,Paraguay,Desktop,0,162
+user_65,17,Iraq,Desktop,1,149
+user_55,11,Gambia,Mobile,3,109
+user_96,18,Burundi,Mobile,0,153
+user_14,17,Malaysia,Laptop,2,47
+user_86,13,Lebanon,Laptop,1,192
+user_72,12,Peru,Laptop,0,104
+user_24,2,Lesotho,Mobile,0,164
+user_32,5,Cayman Islands,Mobile,0,164
+user_95,13,Cote d'Ivoire,Desktop,3,79
+user_57,12,Portugal,Desktop,4,91
+user_79,6,Nepal,Mobile,0,113
+user_22,22,Belgium,Desktop,3,67
+user_98,22,Bangladesh,Laptop,4,182
+user_63,19,Guinea,Laptop,2,64
+user_65,10,Greece,Laptop,4,101
+user_21,21,Guyana,Mobile,1,95
+user_93,17,Lesotho,Mobile,5,151
+user_17,7,Nicaragua,Desktop,1,153
+user_31,4,Kenya,Desktop,2,67
+user_50,9,Taiwan,Desktop,4,178
+user_85,8,Afghanistan,Mobile,2,69
+user_87,11,United Kingdom,Desktop,1,70
+user_76,7,Malaysia,Mobile,4,191
+user_19,19,United Arab Emirates,Desktop,3,63
+user_47,13,Poland,Laptop,3,68
+user_38,0,Saudi Arabia,Desktop,4,131
+user_39,0,South Georgia and the South Sandwich Islands,Laptop,4,60
+user_93,4,Saint Vincent and the Grenadines,Laptop,4,55
+user_9,19,Sudan,Mobile,0,185
+user_50,4,Oman,Mobile,5,133
+user_50,18,Gibraltar,Mobile,2,108
+user_55,2,France,Laptop,2,193
+user_73,23,Antigua and Barbuda,Mobile,1,1
+user_3,4,Sri Lanka,Laptop,0,29
+user_86,9,Panama,Laptop,1,134
+user_86,6,British Indian Ocean Territory (Chagos Archipelago),Mobile,3,168
+user_33,14,Yemen,Mobile,2,62
+user_9,17,Mali,Laptop,3,186
+user_31,0,French Guiana,Mobile,1,127
+user_61,18,Zimbabwe,Laptop,0,200
+user_33,19,Samoa,Desktop,0,145
+user_32,16,Kazakhstan,Laptop,2,131
+user_73,2,Guernsey,Mobile,0,145
+user_48,20,New Caledonia,Laptop,5,122
+user_36,3,French Polynesia,Desktop,2,176
+user_100,14,Heard Island and McDonald Islands,Mobile,3,128
+user_80,20,Eritrea,Mobile,0,61
+user_52,13,Nigeria,Laptop,0,198
+user_27,14,Central African Republic,Mobile,2,6
+user_30,16,Ireland,Mobile,1,73
+user_15,8,Peru,Desktop,2,161
+user_20,0,Cape Verde,Desktop,1,102
+user_60,17,Anguilla,Laptop,1,5
+user_5,3,Poland,Desktop,0,12
+user_65,23,Norway,Laptop,5,74
+user_1,19,Saudi Arabia,Desktop,5,142
+user_46,9,Fiji,Laptop,4,57
+user_67,8,Gibraltar,Laptop,4,13
+user_80,14,Nauru,Mobile,2,134
+user_2,13,Azerbaijan,Laptop,4,107
+user_6,16,Puerto Rico,Desktop,4,73
+user_36,4,Tokelau,Mobile,0,123
+user_61,14,Northern Mariana Islands,Mobile,0,183
+user_55,16,Congo,Desktop,2,63
+user_81,23,Romania,Laptop,5,6
+user_57,18,Gabon,Laptop,3,178
+user_15,13,Marshall Islands,Mobile,3,134
+user_45,18,Madagascar,Mobile,3,50
+user_7,16,Hungary,Desktop,5,129
+user_10,10,Ethiopia,Mobile,5,53
+user_53,2,Trinidad and Tobago,Desktop,4,148
+user_8,7,Mexico,Laptop,2,108
+user_88,23,Algeria,Mobile,1,98
+user_11,23,Holy See (Vatican City State),Laptop,2,123
+user_74,6,Algeria,Desktop,4,33
+user_27,9,Peru,Desktop,4,156
+user_96,17,Lithuania,Laptop,5,106
+user_87,2,Jordan,Desktop,3,62
+user_19,11,Bouvet Island (Bouvetoya),Laptop,2,38
+user_60,7,Australia,Mobile,4,16
+user_75,18,Nicaragua,Laptop,0,114
+user_6,22,Iraq,Laptop,3,152
+user_96,19,Canada,Mobile,0,186
+user_5,5,Botswana,Mobile,3,104
+user_15,23,Serbia,Laptop,4,149
+user_88,19,Namibia,Desktop,1,54
+user_48,15,Liechtenstein,Mobile,5,92
+user_17,7,Poland,Desktop,5,12
+user_53,3,Latvia,Mobile,5,34
+user_27,5,Germany,Desktop,3,93
+user_68,21,Tuvalu,Mobile,0,39
+user_10,10,Monaco,Desktop,2,77
+user_68,1,Fiji,Laptop,5,197
+user_63,3,Venezuela,Laptop,1,127
+user_57,3,Finland,Mobile,1,33
+user_20,9,Montenegro,Mobile,4,176
+user_67,17,Honduras,Desktop,1,75
+user_39,16,Taiwan,Desktop,1,185
+user_35,23,Argentina,Desktop,0,134
+user_65,1,Philippines,Laptop,2,66
+user_53,12,Martinique,Desktop,4,11
+user_66,6,Ecuador,Desktop,4,128
+user_9,22,Algeria,Desktop,0,34
+user_66,18,Saint Barthelemy,Laptop,0,175
+user_89,16,Papua New Guinea,Laptop,0,150
+user_47,6,Djibouti,Desktop,3,123
+user_90,15,Lao People's Democratic Republic,Laptop,3,32
+user_6,3,Congo,Mobile,1,195
+user_81,11,Hungary,Mobile,4,74
+user_5,10,Monaco,Mobile,2,124
+user_12,0,Mongolia,Desktop,3,15
+user_7,6,Colombia,Mobile,1,179
+user_68,14,Haiti,Desktop,3,160
+user_82,11,Madagascar,Desktop,0,164
+user_34,14,Guyana,Mobile,2,190
+user_84,4,Isle of Man,Laptop,1,113
+user_18,13,Papua New Guinea,Desktop,0,95
+user_32,0,Tonga,Mobile,3,145
+user_4,17,Palestinian Territory,Mobile,1,184
+user_83,4,Cyprus,Desktop,5,66
+user_71,10,Brazil,Mobile,3,79
+user_66,5,Samoa,Mobile,5,141
+user_94,15,Turkey,Mobile,5,52
+user_79,4,Puerto Rico,Desktop,3,94
+user_33,19,Saint Helena,Mobile,3,36
+user_14,3,Sierra Leone,Mobile,1,107
+user_10,13,Belgium,Mobile,4,72
+user_33,13,Macao,Mobile,4,11
+user_42,0,Sri Lanka,Desktop,0,102
+user_27,12,Saint Lucia,Laptop,3,18
+user_88,23,Ethiopia,Laptop,2,187
+user_100,13,Holy See (Vatican City State),Laptop,3,117
+user_27,0,Eritrea,Laptop,2,50
+user_35,8,Cameroon,Laptop,5,69
+user_5,6,El Salvador,Laptop,1,98
+user_21,18,Estonia,Laptop,3,125
+user_81,19,Mali,Laptop,5,148
+user_35,6,Guadeloupe,Mobile,0,169
+user_23,17,Macao,Laptop,0,184
+user_60,10,Liechtenstein,Mobile,3,1
+user_22,3,Chile,Laptop,4,138
+user_74,12,Dominica,Laptop,5,12
+user_66,17,Bahrain,Desktop,2,94
+user_11,9,Croatia,Mobile,0,113
+user_55,12,Guinea,Desktop,3,122
+user_57,12,Spain,Desktop,0,83
+user_93,17,Uganda,Laptop,3,34
+user_72,12,Bhutan,Laptop,4,74
+user_38,11,Slovakia (Slovak Republic),Laptop,4,118
+user_43,18,Belize,Laptop,3,132
+user_34,20,Mozambique,Laptop,0,36
+user_74,13,Brunei Darussalam,Laptop,5,166
+user_24,22,Rwanda,Mobile,2,53
+user_97,23,Moldova,Mobile,0,145
+user_37,8,India,Mobile,1,196
+user_84,23,Moldova,Desktop,0,78
+user_58,5,Romania,Mobile,3,146
+user_38,20,Monaco,Desktop,2,40
+user_57,17,Nepal,Laptop,4,39
+user_33,22,Mayotte,Desktop,1,120
+user_13,23,Vanuatu,Desktop,0,194
+user_9,4,Togo,Mobile,1,7
+user_97,23,Kuwait,Mobile,3,69
+user_45,3,United States Virgin Islands,Desktop,4,133
+user_5,14,Bangladesh,Mobile,3,59
+user_79,15,Saint Pierre and Miquelon,Laptop,2,111
+user_31,13,Saint Lucia,Laptop,4,132
+user_10,11,Heard Island and McDonald Islands,Mobile,5,14
+user_20,19,Israel,Desktop,2,84
+user_16,9,Tokelau,Laptop,3,10
+user_82,3,Iceland,Mobile,3,30
+user_52,16,Lao People's Democratic Republic,Mobile,1,156
+user_1,17,Zimbabwe,Laptop,2,190
+user_42,7,Aruba,Laptop,4,26
+user_68,3,Uruguay,Laptop,4,64
+user_72,20,Bahamas,Mobile,0,49
+user_63,23,Montenegro,Desktop,4,13
+user_35,22,Nigeria,Desktop,0,72
+user_89,18,Montserrat,Laptop,1,47
+user_62,0,Guatemala,Mobile,2,168
+user_75,5,Netherlands,Laptop,4,149
+user_57,13,Poland,Desktop,2,145
+user_91,7,China,Laptop,2,177
+user_8,9,France,Laptop,3,24
+user_29,4,Marshall Islands,Laptop,0,107
+user_30,17,Holy See (Vatican City State),Desktop,4,58
+user_68,3,Puerto Rico,Desktop,5,123
+user_53,17,Dominica,Desktop,1,105
+user_50,13,Cayman Islands,Mobile,4,43
+user_24,17,Sweden,Mobile,0,189
+user_50,19,San Marino,Laptop,4,142
+user_38,16,Gabon,Desktop,4,116
+user_49,1,Burundi,Mobile,5,44
+user_47,5,Gibraltar,Mobile,3,128
+user_89,20,Taiwan,Desktop,0,172
+user_44,11,Mali,Desktop,2,147
+user_11,1,Angola,Laptop,1,46
+user_32,19,Uruguay,Laptop,1,162
+user_89,6,Suriname,Laptop,2,3
+user_87,9,Martinique,Mobile,0,31
+user_16,6,Lithuania,Laptop,1,89
+user_64,3,Niue,Desktop,3,20
+user_7,20,Algeria,Mobile,5,107
+user_42,13,Japan,Laptop,0,87
+user_74,2,Sierra Leone,Desktop,5,142
+user_96,7,Sao Tome and Principe,Mobile,5,185
+user_95,5,Chad,Laptop,4,74
+user_46,10,Gabon,Mobile,1,103
+user_9,16,Tanzania,Desktop,4,24
+user_19,12,United States of America,Mobile,3,86
+user_21,23,Japan,Mobile,5,34
+user_68,18,Jersey,Laptop,3,196
+user_55,3,Guyana,Desktop,1,36
+user_97,15,Montserrat,Desktop,4,83
+user_42,11,Slovakia (Slovak Republic),Laptop,0,16
+user_10,6,Korea,Desktop,1,136
+user_63,2,Tunisia,Laptop,4,48
+user_24,1,Libyan Arab Jamahiriya,Mobile,5,29
+user_96,13,Dominican Republic,Laptop,3,173
+user_14,14,Chile,Laptop,4,5
+user_69,20,Brazil,Laptop,1,129
+user_61,13,Czech Republic,Desktop,2,119
+user_69,7,Gambia,Laptop,4,92
+user_39,1,Bolivia,Mobile,0,156
+user_70,7,Montserrat,Mobile,4,79
+user_94,14,Jamaica,Laptop,5,40
+user_87,12,Nicaragua,Mobile,0,52
+user_11,18,Gabon,Laptop,3,84
+user_67,4,Guatemala,Desktop,0,194
+user_65,6,Papua New Guinea,Desktop,4,48
+user_49,1,Malawi,Mobile,1,94
+user_1,10,Uruguay,Desktop,2,199
+user_21,7,Ukraine,Mobile,3,84
+user_1,15,Belarus,Mobile,3,45
+user_52,20,Jordan,Mobile,5,177
+user_69,8,Uganda,Mobile,4,166
+user_4,0,Papua New Guinea,Desktop,3,59
+user_17,7,Nigeria,Laptop,4,176
+user_14,5,Yemen,Desktop,4,89
+user_82,8,Angola,Laptop,3,131
+user_50,2,Egypt,Mobile,1,70
+user_25,12,Azerbaijan,Mobile,4,144
+user_72,2,Tunisia,Mobile,0,17
+user_94,17,French Southern Territories,Desktop,3,111
+user_59,23,Armenia,Laptop,2,69
+user_32,4,India,Laptop,4,96
+user_76,21,Venezuela,Mobile,2,14
+user_89,9,Malta,Desktop,3,96
+user_31,0,Serbia,Mobile,0,181
+user_44,18,Vietnam,Desktop,3,195
+user_3,12,Dominican Republic,Laptop,4,103
+user_12,5,Malawi,Mobile,2,99
+user_5,10,El Salvador,Laptop,3,132
+user_34,15,Guinea-Bissau,Laptop,4,16
+user_6,5,Spain,Laptop,4,158
+user_2,18,Gambia,Mobile,1,164
+user_69,9,Reunion,Mobile,4,9
+user_62,22,Mauritania,Mobile,5,96
+user_48,8,Sudan,Mobile,5,189
+user_49,15,Eritrea,Laptop,2,169
+user_53,2,Guadeloupe,Laptop,5,67
+user_40,14,Western Sahara,Laptop,1,52
+user_72,12,Israel,Desktop,5,22
+user_94,8,Philippines,Mobile,1,50
+user_25,20,Saint Barthelemy,Mobile,5,123
+user_59,15,Saint Pierre and Miquelon,Laptop,1,40
+user_62,17,North Macedonia,Laptop,4,33
+user_29,21,China,Laptop,3,23
+user_87,10,Hong Kong,Desktop,1,16
+user_64,1,Slovenia,Laptop,4,72
+user_37,20,Armenia,Desktop,2,121
+user_42,8,Tanzania,Laptop,2,67
+user_92,20,Cayman Islands,Desktop,0,165
+user_55,3,North Macedonia,Mobile,3,135
+user_19,2,San Marino,Mobile,2,80
+user_78,20,Tuvalu,Laptop,2,1
+user_32,22,Bouvet Island (Bouvetoya),Laptop,4,180
+user_60,0,Hong Kong,Desktop,4,14
+user_67,6,Ethiopia,Laptop,4,175
+user_51,0,Moldova,Laptop,0,85
+user_62,3,Togo,Mobile,4,150
+user_42,4,United Kingdom,Laptop,5,162
+user_25,4,Falkland Islands (Malvinas),Desktop,0,65
+user_14,13,Portugal,Desktop,1,147
+user_62,18,Thailand,Laptop,5,61
+user_29,16,El Salvador,Desktop,0,40
+user_88,2,Sierra Leone,Laptop,1,46
+user_63,23,Venezuela,Mobile,4,118
+user_50,7,British Indian Ocean Territory (Chagos Archipelago),Laptop,0,117
+user_78,17,Philippines,Laptop,3,10
+user_57,20,Uruguay,Desktop,1,155
+user_56,21,French Southern Territories,Mobile,4,52
+user_34,14,Saint Helena,Desktop,5,51
+user_12,18,Turks and Caicos Islands,Laptop,1,116
+user_86,6,Antigua and Barbuda,Laptop,4,130
+user_34,13,American Samoa,Desktop,5,128
+user_82,2,French Polynesia,Desktop,3,63
+user_100,16,Iraq,Mobile,5,105
+user_45,15,Nigeria,Mobile,1,3
+user_64,2,Guam,Desktop,2,23
+user_38,11,Saint Pierre and Miquelon,Mobile,2,64
+user_18,19,Trinidad and Tobago,Mobile,0,38
+user_31,13,Greece,Laptop,5,192
+user_81,16,Uruguay,Desktop,5,38
+user_16,4,Dominica,Mobile,0,78
+user_13,16,Bouvet Island (Bouvetoya),Desktop,2,72
+user_51,23,Philippines,Desktop,1,146
+user_60,22,Niger,Laptop,5,155
+user_17,0,Kyrgyz Republic,Laptop,3,147
+user_76,5,Switzerland,Mobile,3,145
+user_57,21,Trinidad and Tobago,Desktop,2,87
+user_92,3,United States Virgin Islands,Desktop,1,171
+user_40,17,Nepal,Laptop,4,119
+user_95,14,Taiwan,Laptop,4,96
+user_54,7,Antigua and Barbuda,Desktop,3,31
+user_85,13,American Samoa,Desktop,4,159
+user_87,16,Montserrat,Mobile,5,96
+user_17,15,Andorra,Laptop,1,30
+user_94,20,Cambodia,Mobile,5,168
+user_94,2,Bolivia,Mobile,2,172
+user_62,9,Bangladesh,Laptop,2,184
+user_91,23,Barbados,Laptop,1,139
+user_22,4,Burkina Faso,Laptop,4,171
+user_31,3,French Guiana,Desktop,1,77
+user_7,11,Iran,Laptop,0,6
+user_79,8,Botswana,Desktop,1,151
+user_24,7,Kazakhstan,Mobile,3,170
+user_85,8,Russian Federation,Mobile,2,154
+user_100,16,Nigeria,Desktop,5,133
+user_21,8,South Africa,Desktop,2,66
+user_56,0,Papua New Guinea,Desktop,1,7
+user_83,18,Colombia,Desktop,4,120
+user_66,9,Indonesia,Desktop,4,58
+user_67,15,Honduras,Desktop,0,10
+user_33,10,Djibouti,Desktop,2,11
+user_57,23,Albania,Mobile,5,151
+user_52,11,Marshall Islands,Desktop,4,65
+user_4,11,Eritrea,Mobile,1,111
+user_10,7,American Samoa,Desktop,3,185
+user_33,18,Afghanistan,Mobile,4,163
+user_26,4,British Indian Ocean Territory (Chagos Archipelago),Laptop,2,28
+user_9,9,Greenland,Laptop,3,70
+user_46,22,Tokelau,Laptop,1,77
+user_41,16,Namibia,Laptop,2,150
+user_72,7,Saint Barthelemy,Mobile,2,96
+user_65,14,Mexico,Desktop,1,22
+user_82,21,Venezuela,Laptop,3,126
+user_94,13,South Georgia and the South Sandwich Islands,Desktop,2,141
+user_90,14,Holy See (Vatican City State),Laptop,2,133
+user_41,2,Vietnam,Mobile,5,116
+user_74,9,Jamaica,Mobile,5,133
+user_64,8,Vietnam,Laptop,4,94
+user_59,15,Nepal,Desktop,3,155
+user_64,19,Panama,Laptop,0,83
+user_55,16,Reunion,Laptop,5,123
+user_7,15,Saint Vincent and the Grenadines,Desktop,3,4
+user_34,12,Fiji,Desktop,2,109
+user_30,20,Malawi,Desktop,3,112
+user_82,1,Argentina,Desktop,4,103
+user_64,20,Singapore,Desktop,1,20
+user_64,0,France,Laptop,0,59
+user_1,2,Liechtenstein,Laptop,5,136
+user_17,2,Bermuda,Desktop,1,31
+user_54,18,United Kingdom,Mobile,2,181
+user_53,14,Colombia,Mobile,5,194
+user_67,15,Bahamas,Mobile,1,160
+user_80,9,Kenya,Desktop,5,43
+user_100,16,Czech Republic,Laptop,5,54
+user_100,7,China,Desktop,1,169
+user_93,22,Panama,Desktop,3,15
+user_38,13,Nicaragua,Desktop,2,63
+user_72,1,Central African Republic,Mobile,2,117
+user_6,21,India,Laptop,1,136
+user_99,4,Iceland,Mobile,1,119
+user_62,2,Estonia,Laptop,1,71
+user_66,19,Namibia,Desktop,0,70
+user_8,11,Denmark,Desktop,2,187
+user_88,12,Georgia,Laptop,1,180
+user_11,7,British Virgin Islands,Laptop,4,159
+user_26,18,Norfolk Island,Mobile,1,12
+user_51,8,Nicaragua,Laptop,1,126
+user_94,18,United States of America,Desktop,2,196
+user_23,4,Cape Verde,Mobile,0,111
+user_92,23,Holy See (Vatican City State),Laptop,3,10
+user_70,8,Jamaica,Laptop,2,163
+user_45,3,Samoa,Laptop,0,97
+user_66,18,Myanmar,Laptop,2,143
+user_48,20,Congo,Mobile,4,39
+user_52,18,Libyan Arab Jamahiriya,Laptop,2,57
+user_54,19,Greenland,Desktop,0,91
+user_85,3,Kiribati,Laptop,1,176
+user_6,8,Falkland Islands (Malvinas),Laptop,1,44
+user_89,1,Ireland,Laptop,2,12
+user_71,8,Nicaragua,Laptop,2,197
+user_85,20,Aruba,Mobile,0,84
+user_11,14,Chile,Laptop,5,190
+user_64,17,Hungary,Mobile,5,53
+user_34,9,Puerto Rico,Desktop,0,137
+user_22,23,Nepal,Mobile,0,190
+user_53,18,Croatia,Desktop,4,108
+user_8,13,Slovenia,Desktop,3,133
+user_31,16,Saudi Arabia,Laptop,2,192
+user_70,1,Belize,Desktop,3,134
+user_79,3,Kenya,Desktop,0,108
+user_75,21,Trinidad and Tobago,Mobile,5,71
+user_22,5,Vietnam,Mobile,1,90
+user_86,4,Marshall Islands,Desktop,4,95
+user_82,0,Turkey,Desktop,3,130
+user_56,9,Croatia,Mobile,1,57
+user_74,21,Hong Kong,Desktop,3,58
+user_80,21,Sri Lanka,Mobile,5,173
+user_57,12,Reunion,Mobile,1,183
+user_32,1,Grenada,Laptop,2,74
+user_18,13,Sierra Leone,Laptop,5,185
+user_68,22,Faroe Islands,Laptop,1,21
+user_76,6,Bolivia,Mobile,3,147
+user_56,1,Malawi,Mobile,1,111
+user_55,16,Norfolk Island,Desktop,5,63
+user_72,1,Equatorial Guinea,Desktop,3,91
+user_27,1,Haiti,Desktop,2,98
+user_74,0,Maldives,Mobile,0,15
+user_40,20,Senegal,Laptop,5,117
+user_100,8,Qatar,Laptop,5,64
+user_83,9,Zambia,Desktop,3,53
+user_30,13,Timor-Leste,Desktop,5,191
+user_28,0,Bhutan,Desktop,5,84
+user_78,13,Somalia,Laptop,0,125
+user_25,5,Azerbaijan,Mobile,5,92
+user_4,19,Madagascar,Laptop,5,200
+user_64,22,Croatia,Laptop,5,120
+user_29,10,Niger,Laptop,4,10
+user_4,21,Algeria,Desktop,0,69
+user_16,19,Jamaica,Mobile,1,117
+user_5,18,India,Laptop,3,9
+user_56,17,Syrian Arab Republic,Desktop,0,148
+user_31,14,Croatia,Mobile,1,189
+user_4,15,Botswana,Desktop,1,15
+user_10,1,British Virgin Islands,Desktop,2,32
+user_70,5,Czech Republic,Mobile,4,84
+user_80,1,Monaco,Mobile,4,32
+user_29,23,Croatia,Mobile,1,188
+user_76,3,Saint Vincent and the Grenadines,Laptop,0,176
+user_20,3,Rwanda,Desktop,0,134
+user_49,7,Vietnam,Laptop,3,195
+user_2,12,Chad,Mobile,1,41
+user_46,2,Cyprus,Laptop,2,158
+user_38,4,Yemen,Desktop,0,124
+user_22,16,Micronesia,Desktop,2,167
+user_32,18,South Georgia and the South Sandwich Islands,Desktop,2,30
+user_52,1,Jordan,Mobile,5,36
+user_51,12,Chile,Mobile,2,170
+user_41,7,Estonia,Mobile,1,184
+user_19,23,American Samoa,Laptop,5,164
+user_65,9,Denmark,Desktop,4,49
+user_39,16,Ireland,Desktop,4,104
+user_85,13,Burundi,Laptop,3,112
+user_11,1,Palestinian Territory,Mobile,3,153
+user_71,2,Uganda,Laptop,0,123
+user_74,11,Cape Verde,Mobile,4,83
+user_45,4,Heard Island and McDonald Islands,Desktop,3,138
+user_81,7,United States of America,Desktop,4,56
+user_20,7,Albania,Desktop,5,40
+user_22,3,Peru,Laptop,4,129
+user_80,1,Algeria,Mobile,4,141
+user_77,0,France,Laptop,1,132
+user_50,3,Samoa,Mobile,3,117
+user_44,14,Saint Vincent and the Grenadines,Mobile,5,136
+user_11,3,Bermuda,Laptop,1,85
+user_64,11,Nicaragua,Desktop,3,39
+user_57,13,Gabon,Desktop,3,119
+user_11,0,Aruba,Mobile,3,200
+user_84,13,Bahamas,Desktop,1,141
+user_9,18,Oman,Desktop,3,188
+user_63,2,Tuvalu,Laptop,2,120
+user_59,1,Saint Lucia,Desktop,3,14
+user_55,22,Bolivia,Laptop,4,173
+user_49,23,Namibia,Desktop,5,90
+user_89,18,Cayman Islands,Mobile,5,159
+user_10,9,Reunion,Mobile,1,100
+user_41,19,Peru,Desktop,0,51
+user_18,23,Sweden,Mobile,1,25
+user_21,20,British Virgin Islands,Mobile,3,190
+user_23,12,Moldova,Mobile,4,143
+user_78,5,Austria,Laptop,3,184
+user_7,21,Burkina Faso,Mobile,2,139
+user_79,1,Iraq,Desktop,4,21
+user_24,21,Heard Island and McDonald Islands,Laptop,2,25
+user_6,0,Malawi,Desktop,2,36
+user_72,20,Romania,Mobile,2,164
+user_51,1,Kiribati,Laptop,2,40
+user_74,13,Brunei Darussalam,Desktop,1,187
+user_1,4,Christmas Island,Laptop,4,150
+user_16,2,Latvia,Desktop,3,57
+user_83,11,Maldives,Mobile,1,1
+user_15,9,Heard Island and McDonald Islands,Desktop,3,140
+user_42,10,Singapore,Mobile,2,40
+user_40,22,Monaco,Laptop,5,90
+user_1,1,Nigeria,Desktop,5,113
+user_35,17,Romania,Desktop,3,191
+user_66,7,Indonesia,Mobile,5,88
+user_43,16,Eritrea,Desktop,4,174
+user_31,16,Latvia,Mobile,3,5
+user_85,9,United States of America,Laptop,3,6
+user_85,22,Switzerland,Desktop,0,176
+user_22,15,China,Laptop,1,170
+user_51,0,Peru,Mobile,1,152
+user_91,2,Croatia,Mobile,2,58
+user_6,17,Ecuador,Desktop,3,81
+user_77,19,New Caledonia,Mobile,5,117
+user_11,11,Kuwait,Mobile,0,136
+user_48,13,Israel,Laptop,2,79
+user_44,13,Norfolk Island,Desktop,3,178
+user_78,1,Sri Lanka,Mobile,1,23
+user_53,22,Ukraine,Laptop,0,180
+user_76,17,Central African Republic,Desktop,4,60
+user_77,7,Malawi,Laptop,3,14
+user_18,17,Western Sahara,Mobile,0,25
+user_34,14,Thailand,Laptop,0,179
+user_82,6,South Georgia and the South Sandwich Islands,Desktop,4,66
+user_3,10,Iceland,Desktop,2,89
+user_18,21,Guernsey,Laptop,2,172
+user_53,18,Morocco,Mobile,0,194
+user_78,4,Uganda,Laptop,5,53
+user_54,4,Anguilla,Laptop,1,155
+user_74,20,Angola,Mobile,1,55
+user_61,16,Congo,Laptop,2,21
+user_40,11,Faroe Islands,Mobile,3,133
+user_57,13,Iraq,Laptop,1,104
+user_89,9,Australia,Laptop,1,98
+user_42,3,Cote d'Ivoire,Desktop,3,124
+user_60,3,Zambia,Mobile,2,127
+user_71,23,Cambodia,Mobile,4,9
+user_39,2,Slovakia (Slovak Republic),Laptop,3,59
+user_90,22,British Indian Ocean Territory (Chagos Archipelago),Laptop,5,1
+user_3,15,Denmark,Desktop,0,149
+user_70,5,Vanuatu,Desktop,0,82
+user_92,15,Israel,Desktop,4,8
+user_24,19,Micronesia,Laptop,0,166
+user_56,17,Uzbekistan,Mobile,1,6
+user_22,8,Congo,Laptop,0,21
+user_36,1,Congo,Desktop,1,117
+user_13,8,Sierra Leone,Laptop,1,171
+user_85,12,Somalia,Mobile,2,112
+user_44,19,Germany,Desktop,0,17
+user_45,4,Egypt,Laptop,3,7
+user_2,11,Heard Island and McDonald Islands,Desktop,1,118
+user_83,22,Switzerland,Laptop,0,42
+user_8,21,Togo,Desktop,2,88
+user_1,20,Cayman Islands,Laptop,2,126
+user_10,1,French Polynesia,Laptop,5,181
+user_80,17,Cocos (Keeling) Islands,Laptop,4,185
+user_47,14,Slovakia (Slovak Republic),Desktop,3,135
+user_89,6,Montserrat,Mobile,5,23
+user_98,20,Liechtenstein,Laptop,3,177
+user_9,13,Canada,Mobile,1,173
+user_100,17,British Virgin Islands,Desktop,3,136
+user_100,6,Iran,Laptop,2,187
+user_29,2,Saint Martin,Desktop,1,91
+user_8,15,Brunei Darussalam,Desktop,2,133
+user_79,2,Cape Verde,Laptop,2,80
+user_7,21,Niue,Desktop,4,73
+user_42,20,Nicaragua,Desktop,4,128
+user_90,4,Western Sahara,Laptop,0,117
+user_27,12,Serbia,Desktop,2,23
+user_5,2,Cote d'Ivoire,Mobile,3,43
+user_100,11,Bangladesh,Mobile,2,129
+user_58,2,Nicaragua,Mobile,2,34
+user_56,8,Hong Kong,Desktop,3,84
+user_26,15,Iran,Laptop,2,125
+user_30,15,Benin,Mobile,3,8
+user_69,20,Guadeloupe,Desktop,2,158
+user_47,0,Serbia,Laptop,3,23
+user_20,2,Belarus,Laptop,4,49
+user_88,18,Sweden,Laptop,4,80
+user_76,8,New Zealand,Desktop,3,129
+user_64,8,Lithuania,Desktop,2,150
+user_44,21,Myanmar,Desktop,5,110
+user_9,20,Lesotho,Desktop,2,150
+user_10,22,Saint Kitts and Nevis,Desktop,5,81
+user_81,13,Fiji,Desktop,3,114
+user_98,9,Hong Kong,Laptop,0,151
+user_55,6,Algeria,Mobile,4,182
+user_53,1,Algeria,Mobile,4,78
+user_31,13,Finland,Laptop,4,198
+user_59,4,Malawi,Desktop,3,45
+user_1,22,Burkina Faso,Laptop,1,155
+user_82,0,United States Minor Outlying Islands,Desktop,2,153
+user_6,0,Isle of Man,Desktop,1,41
+user_46,19,Congo,Laptop,4,9
+user_86,18,Guadeloupe,Mobile,0,193
+user_69,20,Gibraltar,Desktop,2,118
+user_31,23,Tokelau,Laptop,2,23
+user_78,8,Sweden,Mobile,1,69
+user_12,3,Finland,Desktop,3,119
+user_96,14,United Kingdom,Desktop,1,78
+user_29,23,Martinique,Desktop,0,114
+user_42,12,Saint Lucia,Laptop,4,74
+user_68,0,Anguilla,Mobile,0,119
+user_6,12,Honduras,Laptop,1,112
+user_88,7,Guernsey,Desktop,0,182
+user_1,11,Iceland,Desktop,3,92
+user_87,9,Kyrgyz Republic,Laptop,5,36
+user_52,7,Costa Rica,Mobile,2,110
+user_1,4,Brunei Darussalam,Desktop,2,183
+user_7,14,United States Virgin Islands,Mobile,0,24
+user_17,17,Nepal,Desktop,0,47
+user_10,7,Christmas Island,Mobile,1,136
+user_3,5,Cote d'Ivoire,Laptop,1,55
+user_55,16,Papua New Guinea,Desktop,0,54
+user_79,15,Turkmenistan,Laptop,3,170
+user_67,20,Saint Lucia,Mobile,2,88
+user_22,14,Costa Rica,Desktop,2,185
+user_23,14,Philippines,Laptop,2,3
+user_23,0,Saint Kitts and Nevis,Mobile,0,152
+user_42,3,Mali,Mobile,1,90
+user_74,23,Nigeria,Laptop,2,28
+user_18,19,Reunion,Mobile,3,86
+user_28,5,Azerbaijan,Laptop,0,66
+user_84,13,Ethiopia,Laptop,0,19
+user_46,4,Congo,Laptop,0,5
+user_27,16,Malta,Laptop,4,181
+user_19,23,Saudi Arabia,Laptop,0,127
+user_78,23,China,Laptop,5,143
+user_64,1,Vanuatu,Laptop,4,51
+user_3,12,South Africa,Laptop,5,51
+user_73,6,Belize,Laptop,2,136
+user_82,10,Gabon,Mobile,0,67
+user_67,4,Guernsey,Mobile,5,53
+user_6,6,El Salvador,Laptop,1,117
+user_19,11,Svalbard & Jan Mayen Islands,Desktop,4,104
+user_31,0,Moldova,Laptop,1,131
+user_74,10,Egypt,Desktop,3,178
+user_67,8,Montserrat,Desktop,4,150
+user_56,7,Romania,Mobile,1,65
+user_37,12,Reunion,Laptop,2,82
+user_98,9,Christmas Island,Desktop,4,24
+user_92,3,Haiti,Laptop,1,98
+user_74,2,Aruba,Mobile,2,45
+user_39,20,Greenland,Mobile,5,187
+user_79,0,Macao,Laptop,0,161
+user_99,19,Syrian Arab Republic,Mobile,3,115
+user_62,16,Australia,Laptop,0,104
+user_6,6,Malta,Desktop,4,56
+user_45,11,Oman,Mobile,2,138
+user_82,21,Suriname,Desktop,5,98
+user_55,13,Barbados,Mobile,3,44
+user_13,15,Yemen,Desktop,1,15
+user_58,11,Poland,Laptop,0,142
+user_15,18,Venezuela,Mobile,2,138
+user_48,9,Jordan,Laptop,1,135
+user_23,14,Puerto Rico,Laptop,4,132
+user_83,16,El Salvador,Mobile,2,81
+user_26,7,French Polynesia,Desktop,4,106
+user_50,17,Namibia,Laptop,2,150
+user_46,2,Norfolk Island,Desktop,4,14
+user_30,14,Jersey,Mobile,0,151
+user_74,14,Papua New Guinea,Desktop,2,187
+user_22,13,Finland,Mobile,3,186
+user_48,7,Vanuatu,Desktop,2,170
+user_43,7,Jersey,Desktop,4,75
+user_50,12,Papua New Guinea,Laptop,5,189
+user_13,5,Trinidad and Tobago,Laptop,1,40
+user_64,7,Bermuda,Laptop,2,120
+user_94,3,Palestinian Territory,Desktop,1,109
+user_11,19,Ethiopia,Mobile,3,155
+user_79,1,United Kingdom,Mobile,4,157
+user_21,17,French Polynesia,Mobile,2,29
+user_24,22,Cuba,Laptop,5,172
+user_52,0,French Southern Territories,Laptop,5,137
+user_53,18,Botswana,Mobile,1,124
+user_24,14,Bolivia,Laptop,1,196
+user_85,20,Niue,Laptop,0,89
+user_16,14,Congo,Laptop,4,53
+user_53,6,Syrian Arab Republic,Mobile,1,197
+user_49,3,Italy,Laptop,1,29
+user_75,13,Niger,Mobile,2,16
+user_91,17,Palau,Desktop,1,24
+user_77,20,Cayman Islands,Mobile,3,85
+user_40,21,Micronesia,Mobile,3,127
+user_47,13,Bolivia,Mobile,4,149
+user_65,23,Finland,Laptop,5,195
+user_90,12,Sao Tome and Principe,Desktop,3,136
+user_5,10,Uzbekistan,Laptop,5,111
+user_46,23,Peru,Mobile,4,87
+user_41,8,Guatemala,Mobile,4,113
+user_80,2,French Guiana,Desktop,3,41
+user_35,7,Nauru,Desktop,4,174
+user_92,13,South Georgia and the South Sandwich Islands,Desktop,5,27
+user_18,10,Zimbabwe,Desktop,1,174
+user_62,9,Seychelles,Laptop,0,162
+user_67,21,Wallis and Futuna,Desktop,4,148
+user_82,6,Botswana,Mobile,3,75
+user_84,23,Latvia,Mobile,3,86
+user_3,3,Guadeloupe,Mobile,2,36
+user_69,21,Swaziland,Laptop,2,152
+user_53,9,Kuwait,Desktop,2,56
+user_17,8,Chad,Laptop,3,115
+user_64,5,Zambia,Desktop,1,165
+user_51,21,Honduras,Mobile,1,21
+user_60,19,Benin,Laptop,1,14
+user_32,6,Greece,Mobile,2,73
+user_32,1,Timor-Leste,Mobile,1,55
+user_17,18,Nepal,Desktop,2,137
+user_52,0,Greenland,Laptop,0,169
+user_17,13,Cote d'Ivoire,Laptop,3,9
+user_69,2,France,Mobile,4,161
+user_41,8,Congo,Mobile,4,78
+user_100,3,South Africa,Mobile,3,87
+user_11,18,Guatemala,Desktop,3,183
+user_51,17,Slovenia,Laptop,4,114
+user_28,15,Turks and Caicos Islands,Laptop,5,20
+user_79,13,Sudan,Mobile,3,162
+user_19,4,Gibraltar,Desktop,1,143
+user_53,3,Kenya,Laptop,1,155
+user_69,5,Portugal,Desktop,0,41
+user_76,1,Portugal,Mobile,0,117
+user_94,4,Austria,Laptop,4,172
+user_33,4,Finland,Desktop,1,11
+user_30,21,Western Sahara,Desktop,3,69
+user_48,6,Korea,Desktop,0,171
+user_57,3,Ireland,Mobile,1,140
+user_15,14,Niger,Laptop,1,76
+user_13,22,Bosnia and Herzegovina,Laptop,1,111
+user_38,15,Guinea-Bissau,Laptop,1,86
+user_71,8,Georgia,Laptop,0,7
+user_26,0,Malawi,Laptop,4,46
+user_60,9,Central African Republic,Mobile,1,97
+user_57,12,Serbia,Laptop,1,89
+user_26,0,Botswana,Mobile,0,118
+user_56,17,Sao Tome and Principe,Laptop,4,127
+user_28,1,New Zealand,Mobile,3,185
+user_18,22,Philippines,Desktop,5,61
+user_26,7,Kuwait,Mobile,2,181
+user_25,23,China,Laptop,5,180
+user_60,9,Uzbekistan,Desktop,2,91
+user_48,13,Burundi,Desktop,5,115
+user_96,17,Barbados,Mobile,5,75
+user_69,19,Chad,Mobile,5,83
+user_72,7,Mongolia,Laptop,2,8
+user_66,5,Cuba,Laptop,5,59
+user_5,14,Guernsey,Mobile,1,10
+user_86,19,Monaco,Desktop,4,72
+user_70,8,Barbados,Desktop,2,98
+user_58,8,Angola,Mobile,3,144
+user_99,19,Albania,Desktop,4,186
+user_8,21,Uganda,Desktop,4,70
+user_33,12,Falkland Islands (Malvinas),Desktop,5,31
+user_22,19,Guinea-Bissau,Desktop,0,149
+user_98,13,Honduras,Desktop,3,179
+user_4,16,Puerto Rico,Laptop,1,129
+user_14,16,Turks and Caicos Islands,Desktop,0,36
+user_17,13,Lesotho,Desktop,4,119
+user_67,20,Malaysia,Desktop,0,149
+user_34,2,Saint Pierre and Miquelon,Mobile,3,154
+user_36,21,Aruba,Desktop,2,41
+user_30,7,Brazil,Desktop,2,51
+user_31,7,Tajikistan,Laptop,5,83
+user_54,2,French Polynesia,Laptop,5,35
+user_62,22,Jamaica,Laptop,4,43
+user_49,8,Norfolk Island,Desktop,5,125
+user_61,21,Mali,Laptop,5,110
+user_69,4,Chile,Mobile,4,129
+user_34,12,Papua New Guinea,Laptop,4,169
+user_71,16,Latvia,Mobile,0,187
+user_88,11,Guinea,Desktop,0,65
+user_85,8,French Southern Territories,Laptop,5,124
+user_45,7,Swaziland,Mobile,2,113
+user_16,16,Guernsey,Mobile,4,49
+user_70,12,Lebanon,Laptop,1,152
+user_20,15,Armenia,Desktop,1,113
+user_80,10,Cambodia,Desktop,2,153
+user_19,6,Nauru,Mobile,0,196
+user_92,8,Zimbabwe,Mobile,2,60
+user_12,16,Saint Barthelemy,Laptop,5,87
+user_38,17,Brazil,Mobile,4,3
+user_56,10,Italy,Laptop,5,107
+user_49,22,Bosnia and Herzegovina,Desktop,5,62
+user_14,1,Uganda,Desktop,4,87
+user_66,2,Uruguay,Laptop,0,187
+user_58,10,Cameroon,Laptop,0,200
+user_24,4,Suriname,Desktop,1,187
+user_33,23,Norway,Desktop,5,94
+user_59,11,Venezuela,Desktop,4,70
+user_58,3,Tunisia,Desktop,3,180
+user_10,7,Grenada,Desktop,1,82
+user_29,17,Barbados,Laptop,4,28
+user_61,19,Marshall Islands,Laptop,3,159
+user_61,12,South Africa,Desktop,1,58
+user_54,6,Christmas Island,Desktop,1,12
+user_32,5,Spain,Desktop,2,124
+user_68,5,Ethiopia,Desktop,5,48
+user_60,20,Vanuatu,Laptop,3,19
+user_75,9,Mexico,Mobile,3,121
+user_78,22,Maldives,Mobile,1,115
+user_100,17,Argentina,Mobile,1,12
+user_78,0,Anguilla,Laptop,1,36
+user_85,23,Turks and Caicos Islands,Mobile,2,152
+user_25,4,Korea,Mobile,1,44
+user_83,16,Antigua and Barbuda,Desktop,3,103
+user_92,23,Taiwan,Mobile,0,188
+user_2,3,Montserrat,Desktop,2,156
+user_49,21,Tajikistan,Laptop,3,163
+user_91,22,Guyana,Laptop,5,126
+user_6,12,Estonia,Laptop,0,45
+user_88,16,Indonesia,Desktop,4,25
+user_57,12,Guinea-Bissau,Mobile,4,108
+user_82,14,Western Sahara,Laptop,1,75
+user_14,19,Liechtenstein,Laptop,5,2
+user_67,13,Holy See (Vatican City State),Mobile,2,150
+user_73,23,South Africa,Laptop,2,176
+user_77,10,Guinea-Bissau,Mobile,0,113
+user_59,1,Vanuatu,Mobile,3,126
+user_54,14,Azerbaijan,Laptop,1,50
+user_24,19,Latvia,Mobile,4,2
+user_55,6,Netherlands,Mobile,5,12
+user_2,5,Iraq,Mobile,5,153
+user_74,20,Burkina Faso,Desktop,2,100
+user_41,5,Spain,Laptop,2,32
+user_78,7,Botswana,Mobile,0,190
+user_50,13,Israel,Desktop,5,43
+user_35,0,Netherlands,Laptop,0,170
+user_82,9,Bermuda,Desktop,3,39
+user_29,17,Lesotho,Mobile,2,53
+user_38,22,Cayman Islands,Desktop,2,200
+user_89,12,Saint Pierre and Miquelon,Laptop,1,91
+user_29,15,United States Minor Outlying Islands,Laptop,1,178
+user_7,5,Guadeloupe,Mobile,1,4
+user_22,7,Marshall Islands,Mobile,1,89
+user_81,8,Bahrain,Desktop,4,93
+user_99,10,Hungary,Mobile,5,160
+user_62,22,Pakistan,Laptop,2,99
+user_20,17,Taiwan,Laptop,1,70
+user_40,8,Pakistan,Desktop,1,47
+user_39,1,Peru,Laptop,4,174
+user_64,13,Ukraine,Desktop,2,24
+user_7,5,Korea,Mobile,2,53
+user_88,10,Heard Island and McDonald Islands,Laptop,3,167
+user_30,16,Papua New Guinea,Mobile,2,128
+user_31,21,Liberia,Laptop,2,75
+user_71,13,Reunion,Laptop,2,129
+user_38,6,Albania,Mobile,5,103
+user_11,17,Cote d'Ivoire,Desktop,2,15
+user_66,12,Yemen,Desktop,3,155
+user_25,12,British Indian Ocean Territory (Chagos Archipelago),Laptop,5,63
+user_87,17,Saint Helena,Desktop,4,141
+user_73,15,Saint Martin,Mobile,4,13
+user_56,0,Libyan Arab Jamahiriya,Desktop,2,168
+user_75,21,Korea,Desktop,0,130
+user_13,20,Grenada,Mobile,0,182
+user_10,10,Haiti,Desktop,5,164
+user_18,20,Libyan Arab Jamahiriya,Laptop,5,178
+user_18,20,Belarus,Desktop,2,129
+user_46,15,Germany,Desktop,0,116
+user_43,2,Bermuda,Desktop,1,190
+user_16,0,Vanuatu,Laptop,4,129
+user_62,17,British Virgin Islands,Desktop,0,112
+user_22,11,North Macedonia,Laptop,3,156
+user_62,23,Iceland,Mobile,2,197
+user_66,11,Costa Rica,Desktop,3,189
+user_70,12,Myanmar,Desktop,3,136
+user_69,11,Guinea,Desktop,2,109
+user_64,16,Kazakhstan,Mobile,3,91
+user_64,11,Turks and Caicos Islands,Mobile,0,171
+user_31,13,Morocco,Laptop,1,194
+user_89,6,Bolivia,Laptop,2,50
+user_1,3,Mali,Desktop,0,139
+user_49,15,Georgia,Mobile,5,127
+user_53,7,Malaysia,Mobile,5,1
+user_29,7,Uzbekistan,Mobile,3,118
+user_91,19,Croatia,Mobile,3,78
+user_22,13,United Kingdom,Mobile,4,146
+user_41,1,Mauritius,Mobile,0,169
+user_86,20,Hong Kong,Mobile,0,101
+user_11,9,Poland,Mobile,2,112
+user_23,3,Trinidad and Tobago,Laptop,0,105
+user_9,11,Philippines,Mobile,3,173
+user_74,9,Barbados,Laptop,0,159
+user_40,17,Saint Kitts and Nevis,Laptop,1,107
+user_60,14,Georgia,Mobile,0,146
+user_57,8,Cameroon,Desktop,3,14
+user_76,6,Djibouti,Desktop,2,114
+user_100,8,Brunei Darussalam,Desktop,3,85
+user_90,11,Israel,Laptop,2,136
+user_54,17,Lesotho,Laptop,3,193
+user_60,10,Falkland Islands (Malvinas),Desktop,4,160
+user_97,22,Mauritania,Mobile,2,117
+user_20,5,Tuvalu,Laptop,0,187
+user_55,15,Sri Lanka,Laptop,5,120
+user_35,6,Mauritania,Laptop,1,99
+user_55,20,French Guiana,Laptop,0,127
+user_70,15,United States Virgin Islands,Mobile,0,89
+user_81,15,Belarus,Mobile,3,67
+user_16,7,South Georgia and the South Sandwich Islands,Desktop,1,41
+user_96,4,Andorra,Desktop,2,184
+user_69,8,Lao People's Democratic Republic,Desktop,2,66
+user_28,9,Svalbard & Jan Mayen Islands,Laptop,2,75
+user_93,11,Congo,Laptop,4,64
+user_62,10,Guatemala,Laptop,3,185
+user_23,4,Wallis and Futuna,Desktop,1,134
+user_18,20,Pakistan,Laptop,4,24
+user_33,6,Central African Republic,Mobile,3,105
+user_83,2,Cook Islands,Laptop,5,119
+user_61,17,Gibraltar,Mobile,3,141
+user_4,16,Cuba,Laptop,5,1
+user_62,16,Hong Kong,Mobile,4,20
+user_71,9,Saint Kitts and Nevis,Laptop,0,177
+user_47,0,Senegal,Laptop,4,82
+user_36,10,Tanzania,Laptop,2,192
+user_85,4,Iraq,Mobile,0,22
+user_1,16,United States Minor Outlying Islands,Mobile,5,17
+user_64,20,Congo,Laptop,3,88
+user_49,22,Saudi Arabia,Laptop,1,70
+user_72,12,San Marino,Laptop,4,191
+user_9,2,Isle of Man,Laptop,4,152
+user_57,12,Belarus,Mobile,1,113
+user_10,6,Cyprus,Desktop,1,154
+user_27,22,Gambia,Desktop,1,19
+user_4,4,United Arab Emirates,Desktop,2,33
+user_14,21,Croatia,Laptop,4,57
+user_60,9,Saint Lucia,Mobile,2,86
+user_47,7,Sierra Leone,Desktop,5,165
+user_76,9,Kenya,Mobile,5,92
+user_24,20,Lebanon,Mobile,2,137
+user_31,7,France,Mobile,4,22
+user_78,13,Thailand,Laptop,0,16
+user_100,19,Bhutan,Mobile,0,115
+user_4,18,Serbia,Mobile,4,100
+user_81,13,Gambia,Desktop,5,43
+user_55,13,Mexico,Mobile,4,101
+user_6,13,Japan,Desktop,3,3
+user_78,20,Montenegro,Laptop,3,104
+user_38,19,Cote d'Ivoire,Laptop,2,139
+user_54,18,Taiwan,Desktop,1,41
+user_69,4,Brunei Darussalam,Desktop,3,129
+user_88,20,Argentina,Desktop,3,146
+user_1,6,France,Desktop,1,15
+user_77,5,Liechtenstein,Laptop,5,73
+user_21,21,Finland,Mobile,5,106
+user_18,16,Bosnia and Herzegovina,Desktop,2,36
+user_21,4,Lesotho,Desktop,2,144
+user_91,22,Jamaica,Mobile,3,99
+user_46,5,South Africa,Desktop,0,171
+user_17,2,Antigua and Barbuda,Mobile,0,25
+user_62,1,Iceland,Laptop,5,81
+user_80,13,Holy See (Vatican City State),Desktop,3,60
+user_47,14,Tajikistan,Desktop,2,195
+user_91,5,Cuba,Mobile,0,7
+user_32,0,Rwanda,Desktop,0,137
+user_69,22,Uruguay,Laptop,1,81
+user_62,19,Colombia,Desktop,3,35
+user_26,16,Albania,Desktop,5,23
+user_88,23,Samoa,Mobile,4,149
+user_66,0,Italy,Desktop,3,176
+user_8,11,Lao People's Democratic Republic,Mobile,0,49
+user_35,17,Falkland Islands (Malvinas),Desktop,1,5
+user_92,15,Lesotho,Mobile,1,79
+user_53,16,Uruguay,Mobile,4,111
+user_83,1,Madagascar,Desktop,5,22
+user_18,5,Trinidad and Tobago,Desktop,5,32
+user_72,8,British Indian Ocean Territory (Chagos Archipelago),Mobile,4,3
+user_64,17,Bolivia,Laptop,4,111
+user_39,16,Suriname,Desktop,5,168
+user_25,10,Sweden,Laptop,5,9
+user_66,13,Nepal,Mobile,5,183
+user_58,13,New Zealand,Laptop,2,101
+user_23,19,Senegal,Mobile,2,169
+user_27,1,Madagascar,Desktop,5,2
+user_92,7,Malta,Desktop,3,44
+user_91,21,Greenland,Desktop,1,98
+user_24,0,Montenegro,Mobile,5,48
+user_67,22,Czech Republic,Mobile,5,47
+user_31,1,Zambia,Mobile,0,76
+user_29,9,Saint Martin,Mobile,5,125
+user_28,5,Gabon,Laptop,5,188
+user_89,1,Lesotho,Laptop,1,162
+user_55,2,Cote d'Ivoire,Desktop,1,73
+user_23,16,Peru,Laptop,1,177
+user_82,12,Turks and Caicos Islands,Mobile,0,93
+user_7,20,Switzerland,Laptop,4,32
+user_4,22,Poland,Desktop,1,97
+user_91,23,Thailand,Laptop,2,172
+user_83,19,Puerto Rico,Laptop,4,30
+user_26,9,Qatar,Laptop,1,51
+user_52,2,Mexico,Mobile,4,150
+user_7,13,Slovakia (Slovak Republic),Mobile,4,180
+user_35,20,Saint Pierre and Miquelon,Mobile,1,127
+user_12,2,Brunei Darussalam,Laptop,3,80
+user_82,10,Tajikistan,Mobile,1,169
+user_65,0,Kuwait,Desktop,4,161
+user_16,9,Chile,Desktop,0,116
+user_62,18,Ecuador,Desktop,5,186
+user_7,1,Philippines,Laptop,2,17
+user_18,0,Niger,Desktop,0,146
+user_92,12,Saint Martin,Laptop,2,172
+user_12,18,Romania,Desktop,2,160
+user_25,15,Samoa,Mobile,1,71
+user_50,6,Sierra Leone,Laptop,5,137
+user_13,1,Mongolia,Laptop,0,41
+user_21,16,Montenegro,Desktop,5,41
+user_11,6,Guam,Desktop,2,140
+user_99,1,Northern Mariana Islands,Laptop,2,193
+user_72,3,Central African Republic,Laptop,2,157
+user_88,0,Zimbabwe,Desktop,5,193
+user_29,10,Argentina,Laptop,2,188
+user_23,5,Honduras,Mobile,1,186
+user_54,5,Saint Martin,Mobile,3,13
+user_57,13,Cook Islands,Laptop,1,134
+user_100,11,Guinea-Bissau,Mobile,4,21
+user_70,1,Gabon,Desktop,1,39
+user_25,23,Mexico,Laptop,4,185
+user_91,10,Guatemala,Laptop,0,45
+user_63,12,Faroe Islands,Desktop,3,14
+user_68,6,South Georgia and the South Sandwich Islands,Mobile,4,148
+user_12,19,Sudan,Desktop,2,104
+user_26,2,Tonga,Desktop,3,142
+user_33,15,British Indian Ocean Territory (Chagos Archipelago),Desktop,1,162
+user_73,15,Lebanon,Mobile,4,23
+user_22,12,South Georgia and the South Sandwich Islands,Laptop,1,114
+user_100,16,Martinique,Mobile,0,19
+user_89,16,Bahamas,Mobile,0,151
+user_26,21,South Georgia and the South Sandwich Islands,Laptop,4,90
+user_35,1,Niue,Mobile,4,118
+user_7,5,Morocco,Desktop,5,40
+user_5,23,Maldives,Laptop,3,121
+user_93,23,Guinea,Desktop,2,180
+user_73,16,Cayman Islands,Mobile,0,60
+user_3,2,Armenia,Desktop,3,72
+user_16,16,Gambia,Mobile,5,2
+user_22,2,Haiti,Laptop,3,199
+user_18,5,United States Minor Outlying Islands,Laptop,4,133
+user_29,4,Honduras,Mobile,2,63
+user_56,3,Puerto Rico,Laptop,0,88
+user_60,20,Bahamas,Mobile,5,113
+user_20,17,Zimbabwe,Mobile,2,88
+user_42,1,Swaziland,Desktop,1,42
+user_21,8,Puerto Rico,Laptop,2,25
+user_70,23,Senegal,Desktop,1,35
+user_71,7,Ireland,Desktop,2,8
+user_34,17,French Polynesia,Mobile,3,78
+user_62,23,Sao Tome and Principe,Desktop,0,116
+user_73,18,Mauritania,Mobile,1,86
+user_75,3,Nepal,Desktop,3,5
+user_94,22,Gibraltar,Mobile,2,21
+user_67,15,Korea,Desktop,4,40
+user_29,7,Belize,Desktop,0,126
+user_76,15,Greece,Laptop,3,72
+user_9,7,Gambia,Desktop,2,39
+user_33,2,Belgium,Desktop,3,26
+user_58,14,Zambia,Desktop,5,126
+user_83,6,Saint Lucia,Laptop,2,84
+user_83,17,Nicaragua,Desktop,4,179
+user_72,11,United Arab Emirates,Laptop,3,30
+user_97,16,Gabon,Laptop,1,176
+user_42,13,Bosnia and Herzegovina,Desktop,4,138
+user_10,18,Marshall Islands,Desktop,5,87
+user_21,11,Canada,Desktop,4,168
+user_28,9,Cayman Islands,Mobile,0,58
+user_57,22,Albania,Mobile,0,131
+user_48,3,Dominican Republic,Laptop,3,85
+user_74,21,Bahrain,Desktop,0,30
+user_41,12,Senegal,Mobile,4,20
+user_67,8,Belarus,Laptop,4,2
+user_45,21,Georgia,Mobile,1,44
+user_16,23,Haiti,Laptop,1,32
+user_98,13,Azerbaijan,Mobile,3,168
+user_92,18,Tanzania,Laptop,3,35
+user_89,9,Suriname,Mobile,1,157
+user_31,4,Serbia,Mobile,2,112
+user_22,22,Monaco,Laptop,5,184
+user_31,17,Mauritius,Mobile,4,144
+user_91,19,Spain,Laptop,5,139
+user_77,21,Romania,Laptop,4,6
+user_43,4,Pitcairn Islands,Desktop,3,187
+user_34,2,Israel,Mobile,4,68
+user_61,1,Azerbaijan,Mobile,0,5
+user_80,0,Ireland,Desktop,4,162
+user_82,8,Brunei Darussalam,Desktop,4,26
+user_95,7,Kyrgyz Republic,Mobile,0,39
+user_51,23,Germany,Desktop,3,158
+user_48,5,Tokelau,Laptop,4,151
+user_18,23,Norway,Desktop,3,111
+user_8,12,Slovakia (Slovak Republic),Laptop,2,100
+user_88,6,Niue,Laptop,4,79
+user_25,6,Malaysia,Desktop,2,19
+user_13,1,Wallis and Futuna,Mobile,1,79
+user_56,1,Western Sahara,Laptop,3,146
+user_37,19,Zambia,Desktop,3,39
+user_41,8,Seychelles,Desktop,3,12
+user_70,12,Anguilla,Desktop,5,30
+user_20,13,Saudi Arabia,Mobile,0,5
+user_90,18,Nauru,Desktop,5,51
+user_94,13,Martinique,Laptop,5,95
+user_78,1,Chad,Laptop,0,27
+user_73,0,Puerto Rico,Desktop,1,71
+user_77,7,Tokelau,Desktop,3,45
+user_92,21,Lebanon,Laptop,1,16
+user_29,6,Switzerland,Laptop,3,94
+user_57,17,Kazakhstan,Mobile,2,48
+user_31,11,Iran,Desktop,5,175
+user_38,21,British Indian Ocean Territory (Chagos Archipelago),Desktop,1,3
+user_28,12,Cape Verde,Laptop,4,98
+user_2,17,Congo,Desktop,2,33
+user_53,5,North Macedonia,Laptop,1,149
+user_97,14,Korea,Mobile,1,187
+user_15,17,Algeria,Desktop,0,73
+user_43,21,Kazakhstan,Desktop,5,127
+user_82,21,Czech Republic,Laptop,2,80
+user_23,0,Northern Mariana Islands,Laptop,0,62
+user_86,14,Ghana,Mobile,4,124
+user_85,14,Cambodia,Desktop,3,130
+user_68,9,Saint Vincent and the Grenadines,Desktop,4,2
+user_82,11,Iceland,Laptop,0,81
+user_38,15,British Virgin Islands,Mobile,5,124
+user_45,5,Greenland,Desktop,5,150
+user_8,13,Botswana,Laptop,0,100
+user_87,3,Indonesia,Laptop,0,117
+user_4,7,Afghanistan,Laptop,0,198
+user_78,7,Papua New Guinea,Laptop,3,145
+user_78,0,Ireland,Laptop,5,63
+user_73,18,Jamaica,Desktop,1,99
+user_86,4,Djibouti,Mobile,0,85
+user_2,4,Bahamas,Mobile,1,7
+user_66,2,Tajikistan,Laptop,3,37
+user_27,0,Palestinian Territory,Mobile,5,117
+user_22,2,Vanuatu,Desktop,1,67
+user_41,15,Greece,Laptop,2,55
+user_63,17,Venezuela,Laptop,3,176
+user_17,23,Slovakia (Slovak Republic),Desktop,5,82
+user_51,8,Cambodia,Laptop,4,9
+user_77,17,France,Laptop,0,191
+user_93,0,Libyan Arab Jamahiriya,Desktop,4,90
+user_82,18,Jamaica,Mobile,1,16
+user_71,16,Syrian Arab Republic,Mobile,4,93
+user_74,10,Pakistan,Desktop,5,121
+user_42,10,Indonesia,Mobile,1,157
+user_11,5,New Zealand,Laptop,2,20
+user_72,6,Oman,Desktop,4,136
+user_3,14,Eritrea,Mobile,3,1
+user_21,6,Marshall Islands,Mobile,2,84
+user_9,18,Uzbekistan,Mobile,2,166
+user_80,12,Bouvet Island (Bouvetoya),Laptop,4,159
