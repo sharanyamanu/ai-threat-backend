@@ -2,25 +2,29 @@ from flask import Flask, render_template, request, send_file, jsonify
 import joblib
 import pandas as pd
 from flask_cors import CORS
+import os
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Load model
 model = joblib.load("threat_detection_model.pkl")
 
+# Global storage
 latest_data = None
 
 
 # ---------------- HOME ----------------
 @app.route("/")
 def home():
-    return render_template("index.html", chart_data=[0,0,0])
+    return "Backend running 🚀"
 
 
-# ---------------- API (SMART VERSION) ----------------
+# ---------------- API (MAIN) ----------------
 @app.route("/api/analyze", methods=["POST"])
 def api_analyze():
+    global latest_data   # 🔥 IMPORTANT
+
     try:
         file = request.files["file"]
         data = pd.read_csv(file)
@@ -43,10 +47,10 @@ def api_analyze():
         # ❌ If required columns not found
         if len(col_map) < 3:
             return jsonify({
-                "error": "Invalid file format. Required columns like login_hour, failed_attempts, files_accessed not found."
+                "error": "Invalid file format. Required columns not found."
             }), 400
 
-        # 🔥 CREATE STANDARDIZED COLUMNS
+        # 🔥 STANDARDIZE COLUMNS
         data['login_hour'] = data[col_map["login_hour"]]
         data['failed_attempts'] = data[col_map["failed_attempts"]]
         data['files_accessed'] = data[col_map["files_accessed"]]
@@ -81,6 +85,11 @@ def api_analyze():
 
         data['risk_level'] = data['risk_score'].apply(get_risk_level)
 
+        # -------- STATUS --------
+        data['status'] = data['anomaly'].apply(
+            lambda x: "Suspicious" if x == -1 else "Normal"
+        )
+
         # -------- EXPLANATION --------
         def explain(row):
             reasons = []
@@ -94,32 +103,14 @@ def api_analyze():
 
         data['explanation'] = data.apply(explain, axis=1)
 
+        # 🔥 SAVE FOR DOWNLOAD (MOST IMPORTANT)
+        latest_data = data.copy()
+
         return jsonify(data.to_dict(orient="records"))
 
     except Exception as e:
         print("ERROR:", e)
         return jsonify({"error": str(e)}), 500
-
-
-# ---------------- UPLOAD (OLD UI SUPPORT) ----------------
-@app.route("/upload", methods=["POST"])
-def upload():
-    global latest_data
-
-    file = request.files["file"]
-    data = pd.read_csv(file)
-
-    # Basic processing
-    data['late_login'] = data['login_hour'].apply(lambda x: 1 if x < 6 else 0)
-    data['high_failed'] = data['failed_attempts'].apply(lambda x: 1 if x > 3 else 0)
-    data['high_file_access'] = data['files_accessed'].apply(lambda x: 1 if x > 100 else 0)
-
-    features = data[['late_login','high_failed','high_file_access']]
-    data['anomaly'] = model.predict(features)
-
-    latest_data = data
-
-    return render_template("index.html")
 
 
 # ---------------- DOWNLOAD ----------------
@@ -128,13 +119,14 @@ def download():
     global latest_data
 
     if latest_data is None:
-        return "No data to download"
+        return "No data available. Please analyze logs first."
 
-    latest_data.to_csv("report.csv", index=False)
-    return send_file("report.csv", as_attachment=True)
+    file_path = "report.csv"
+    latest_data.to_csv(file_path, index=False)
+
+    return send_file(file_path, as_attachment=True)
 
 
 # ---------------- RUN ----------------
 if __name__ == "__main__":
-   app.run(host="0.0.0.0", port=10000)
-   
+    app.run(host="0.0.0.0", port=10000)
